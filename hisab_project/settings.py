@@ -26,7 +26,7 @@ SECRET_KEY = os.environ["SECRET_KEY"]
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://hisab-qynm.onrender.com/"]
+ALLOWED_HOSTS = ["hisab-qynm.onrender.com/"]
 
 # Application definition
 
